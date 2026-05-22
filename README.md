@@ -1,2 +1,2 @@
-# Noctalia
-This repository will be for my noctalia configurations on niri. I'll do some hyprland ones when I get bored.
+# Before I upload here.
+I will do it when I stop using my real name on these configurations.
